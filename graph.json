@@ -1,0 +1,98 @@
+{
+    "U": {
+        "accessU": 100.0,
+        "T": 200.0,
+        "accessT": 300.0,
+        "middleCornerT": 301.0398644698074,
+        "R": 761.5773105863908,
+        "rightCornerR": 700.446286306095,
+        "leftDownCornerU": 546.4036969128229,
+        "rightDownCornerV2": 734.3003472694263
+    },
+    "accessU": {
+        "U": 100.0,
+        "T": 223.60679774997897,
+        "accessT": 316.22776601683796,
+        "middleCornerT": 309.23292192132453,
+        "R": 728.0109889280518,
+        "rightCornerR": 704.0063920164362,
+        "leftDownCornerU": 446.49412090194426,
+        "rightDownCornerV2": 634.3476964567618
+    },
+    "T": {
+        "U": 200.0,
+        "accessU": 223.60679774997897,
+        "accessT": 100.0,
+        "middleCornerT": 103.07764064044152,
+        "R": 583.09518948453,
+        "rightCornerR": 500.62460986251966,
+        "leftDownCornerU": 574.5928993644109,
+        "rightDownCornerV2": 755.5110852925985
+    },
+    "accessT": {
+        "U": 300.0,
+        "accessU": 316.22776601683796,
+        "T": 100.0,
+        "middleCornerT": 25.0,
+        "R": 500.0,
+        "rightCornerR": 400.7804885470349,
+        "leftDownCornerU": 613.1533250337961,
+        "rightDownCornerV2": 785.2369069268204
+    },
+    "middleCornerT": {
+        "U": 301.0398644698074,
+        "accessU": 309.23292192132453,
+        "T": 103.07764064044152,
+        "accessT": 25.0,
+        "R": 485.41219597368996,
+        "rightCornerR": 400.0,
+        "leftDownCornerU": 591.0008460230831,
+        "rightDownCornerV2": 761.9199433011319
+    },
+    "R": {
+        "U": 761.5773105863908,
+        "accessU": 728.0109889280518,
+        "T": 583.09518948453,
+        "accessT": 500.0,
+        "middleCornerT": 485.41219597368996,
+        "rightCornerR": 275.0,
+        "leftDownCornerU": 722.1890334254599,
+        "rightDownCornerV2": 805.8517233337657
+    },
+    "rightCornerR": {
+        "U": 700.446286306095,
+        "accessU": 704.0063920164362,
+        "T": 500.62460986251966,
+        "accessT": 400.7804885470349,
+        "middleCornerT": 400.0,
+        "R": 275.0,
+        "leftDownCornerU": 855.851622654301,
+        "rightDownCornerV2": 981.6934348359472
+    },
+    "leftDownCornerU": {
+        "U": 546.4036969128229,
+        "accessU": 446.49412090194426,
+        "T": 574.5928993644109,
+        "accessT": 613.1533250337961,
+        "middleCornerT": 591.0008460230831,
+        "R": 722.1890334254599,
+        "rightCornerR": 855.851622654301,
+        "rightDownCornerV2": 188.0,
+        "V2": 636.3143877046942
+    },
+    "rightDownCornerV2": {
+        "U": 734.3003472694263,
+        "accessU": 634.3476964567618,
+        "T": 755.5110852925985,
+        "accessT": 785.2369069268204,
+        "middleCornerT": 761.9199433011319,
+        "R": 805.8517233337657,
+        "rightCornerR": 981.6934348359472,
+        "leftDownCornerU": 188.0,
+        "V2": 448.4462063614765
+    },
+    "V2": {
+        "leftDownCornerU": 636.3143877046942,
+        "rightDownCornerV2": 448.4462063614765
+    }
+}
