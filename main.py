@@ -183,7 +183,7 @@ def obtener_ruta_optima(start, end, graph):
     guardar_ruta_predefinida(start, end, ruta_optima)
     return ruta_optima
 
-start_node = 'U' 
+start_node = 'V2' 
 end_node = 'R'    
 
 graph = generar_grafo_con_pesos(coordenadas)
