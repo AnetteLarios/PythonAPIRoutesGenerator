@@ -1,3 +1,21 @@
 {
-    "U_R": []
+    "U_V": [
+        "U",
+        "accessU",
+        "V"
+    ],
+    "V_T": [
+        "V",
+        "rightUpCornerV2",
+        "rightDownCornerV2",
+        "leftDownCornerU",
+        "T"
+    ],
+    "U_R": [
+        "U",
+        "accessT",
+        "middleCornerT",
+        "rightDownCornerR",
+        "R"
+    ]
 }

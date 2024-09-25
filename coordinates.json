@@ -1,12 +1,13 @@
 {
-    "U": [5800, 4800],
-    "accessU": [5700, 4800],
-    "T": [5800, 5000],
-    "accessT": [5800, 5100],
-    "middleCornerT": [5775, 5100],
-    "R": [5500, 5500],
-    "rightCornerR": [5775, 5500],
-    "leftDownCornerU": [5254,4821],
-    "rightDownCornerV2": [5066,4821],
-    "V2": [4618,4841]
+    "R": [2195, 2196],
+    "rightDownCornerR": [2309, 2194],
+    "U": [2297, 1928],
+    "T": [2308, 2010],
+    "accessT": [2309, 2042],
+    "middleCornerT":[2295,2034],
+    "leftDownCornerU": [2083,1928],
+    "V":[1723,1816],
+    "rightDownCornerV":[2025,1804],
+    "rightUpCornerV2": [2025,1856],
+    "rightDownCornerV2": [2025,1926]
 }
