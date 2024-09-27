@@ -1,42 +1,31 @@
 {
-    "U_V": [
-        "U",
-        "accessU",
-        "V"
-    ],
-    "U_R": [
-        "U",
-        "accessT",
-        "middleCornerT",
-        "rightDownCornerR",
+    "V_R": [
+        "V",
+        "rightDownCornerV",
+        "leftDownCornerR",
         "R"
     ],
     "V_T": [
         "V",
-        "rightDownCornerV2",
-        "middleU_V2",
+        "rightDownCornerV",
         "leftDownCornerU",
         "T"
     ],
-    "V_U": [
-        "V",
-        "rightUpCornerV2",
-        "rightDownCornerV",
-        "leftUpCornerU",
-        "U"
-    ],
-    "V2_T": [
-        "V2",
-        "leftUpCornerT",
-        "accessT",
-        "middleCornerT",
-        "T"
-    ],
-    "V2_R": [
-        "V2",
-        "rightDownCornerV2",
-        "middleU_V2",
-        "leftUpCornerT",
+    "U_R": [
+        "U",
+        "rightDownCornerR",
         "R"
+    ],
+    "V_P": [
+        "V",
+        "rightDownCornerV",
+        "leftDownCornerP",
+        "P"
+    ],
+    "P_V": [
+        "P",
+        "leftDownCornerP",
+        "rightDownCornerV",
+        "V"
     ]
 }
