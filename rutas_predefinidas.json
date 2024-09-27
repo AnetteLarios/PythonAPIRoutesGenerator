@@ -27,5 +27,35 @@
         "leftDownCornerP",
         "rightDownCornerV",
         "V"
+    ],
+    "X_S2": [
+        "X",
+        "rightUpCornerW",
+        "S2"
+    ],
+    "S2_X": [
+        "S2",
+        "rightUpCornerW",
+        "X"
+    ],
+    "X_W": [
+        "X",
+        "W"
+    ],
+    "W_X": [
+        "W",
+        "X"
+    ],
+    "V_X": [
+        "V",
+        "middleX_V",
+        "leftDownCornerV",
+        "X"
+    ],
+    "X_V": [
+        "X",
+        "leftDownCornerV",
+        "middleX_V",
+        "V"
     ]
 }

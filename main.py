@@ -314,7 +314,7 @@ def obtener_ruta_optima(start, end, graph):
 
 
 start_node = 'V' 
-end_node = 'P'    
+end_node = 'X'    
 
 graph = generar_grafo_con_pesos(coordenadas)
 ruta_optima = obtener_ruta_optima(start_node, end_node, graph)
@@ -322,8 +322,8 @@ ruta_optima = obtener_ruta_optima(start_node, end_node, graph)
 dibujador = ImageDraw.Draw(mapImage)
 dibujar_ruta(ruta_optima, dibujador)
 
-mapImage.save(f"{start_node}_{end_node}.webp")
-mapImage.save(f"{end_node}_{start_node}.webp")
+mapImage.save(f"routes_generated/{start_node}_{end_node}.webp")
+mapImage.save(f"routes_generated/{end_node}_{start_node}.webp")
 
 print("Ruta óptima dibujada desde", start_node, "a", end_node, ":", ruta_optima)
 
