@@ -4,7 +4,7 @@ from PIL import Image, ImageDraw
 
 Image.MAX_IMAGE_PIXELS = None
 
-mapImage = Image.open("images/mapacucei.webp")
+mapImage = Image.open("images/mapa.webp")
 
 def load_json_file(archive_name):
     try:
@@ -312,10 +312,9 @@ def obtener_ruta_optima(start, end, graph):
     
     return rutas_predefinidas[ruta_clave]
 
-
-start_node = 'V' 
-end_node = 'X'    
-
+#Aquí se seleccionan el nodo de inicio y el nodo final 
+start_node = 'S' 
+end_node = 'V'    
 graph = generar_grafo_con_pesos(coordenadas)
 ruta_optima = obtener_ruta_optima(start_node, end_node, graph)
 
@@ -328,3 +327,4 @@ mapImage.save(f"routes_generated/{end_node}_{start_node}.webp")
 print("Ruta óptima dibujada desde", start_node, "a", end_node, ":", ruta_optima)
 
 save_json_file(graph, "graph.json")
+

@@ -11,23 +11,6 @@
         "leftDownCornerU",
         "T"
     ],
-    "U_R": [
-        "U",
-        "rightDownCornerR",
-        "R"
-    ],
-    "V_P": [
-        "V",
-        "rightDownCornerV",
-        "leftDownCornerP",
-        "P"
-    ],
-    "P_V": [
-        "P",
-        "leftDownCornerP",
-        "rightDownCornerV",
-        "V"
-    ],
     "X_S2": [
         "X",
         "rightUpCornerW",
@@ -46,16 +29,1238 @@
         "W",
         "X"
     ],
-    "V_X": [
-        "V",
-        "middleX_V",
-        "leftDownCornerV",
-        "X"
-    ],
     "X_V": [
         "X",
+        "rightDownCornerX",
         "leftDownCornerV",
-        "middleX_V",
         "V"
+    ],
+    "V_X": [
+        "V",
+        "leftDownCornerV",
+        "rightDownCornerX",
+        "X"
+    ],
+    "X_V2": [
+        "X",
+        "rightUpCornerW",
+        "rightDownCornerW",
+        "V2"
+    ],
+    "V2_X": [
+        "V2",
+        "rightDownCornerW",
+        "rightUpCornerW",
+        "X"
+    ],
+    "X_S": [
+        "X",
+        "rightUpCornerW",
+        "leftDownCornerS",
+        "S"
+    ],
+    "S_X": [
+        "S",
+        "leftDownCornerS",
+        "rightUpCornerW",
+        "X"
+    ],
+    "X_U": [
+        "X",
+        "rightDownCornerX",
+        "rightUpCornerV2",
+        "leftDownCornerU",
+        "U"
+    ],
+    "U_X": [
+        "U",
+        "leftDownCornerU",
+        "rightUpCornerV2",
+        "rightDownCornerX",
+        "X"
+    ],
+    "X_T": [
+        "X",
+        "rightDownCornerX",
+        "rightUpCornerV2",
+        "leftDownCornerU",
+        "T"
+    ],
+    "T_X": [
+        "T",
+        "leftDownCornerU",
+        "rightUpCornerV2",
+        "rightDownCornerX",
+        "X"
+    ],
+    "X_R": [
+        "X",
+        "rightUpCornerW",
+        "leftUpCornerBS2",
+        "leftDownCornerBS2",
+        "leftDownCornerR",
+        "R"
+    ],
+    "R_X": [
+        "R",
+        "leftDownCornerR",
+        "leftDownCornerBS2",
+        "leftUpCornerBS2",
+        "rightUpCornerW",
+        "X"
+    ],
+    "X_Q": [
+        "X",
+        "rightUpCornerW",
+        "leftUpCornerBS2",
+        "rightUpCornerBS2",
+        "leftDownCornerT",
+        "leftUpCornerSHQ",
+        "Q"
+    ],
+    "Q_X": [
+        "Q",
+        "leftUpCornerSHQ",
+        "leftDownCornerT",
+        "rightUpCornerBS2",
+        "leftUpCornerBS2",
+        "rightUpCornerW",
+        "X"
+    ],
+    "X_P": [
+        "X",
+        "rightUpCornerW",
+        "leftUpCornerBS2",
+        "leftDownCornerBS2",
+        "rightUpCornerSHS",
+        "leftDownCornerP",
+        "P"
+    ],
+    "P_X": [
+        "P",
+        "leftDownCornerP",
+        "rightUpCornerSHS",
+        "leftDownCornerBS2",
+        "leftUpCornerBS2",
+        "rightUpCornerW",
+        "X"
+    ],
+    "W_V2": [
+        "W",
+        "rightUpCornerW",
+        "rightDownCornerW",
+        "V2"
+    ],
+    "V2_W": [
+        "V2",
+        "rightDownCornerW",
+        "rightUpCornerW",
+        "W"
+    ],
+    "W_V": [
+        "W",
+        "rightDownCornerX",
+        "leftDownCornerV",
+        "V"
+    ],
+    "V_W": [
+        "V",
+        "leftDownCornerV",
+        "rightDownCornerX",
+        "W"
+    ],
+    "W_U": [
+        "W",
+        "rightUpCornerW",
+        "leftDownCornerV2",
+        "U"
+    ],
+    "U_W": [
+        "U",
+        "leftDownCornerV2",
+        "rightUpCornerW",
+        "W"
+    ],
+    "X_Z2": [
+        "X",
+        "rightUpCornerW",
+        "leftDownCornerV2",
+        "Z2"
+    ],
+    "Z2_X": [
+        "Z2",
+        "leftDownCornerV2",
+        "rightUpCornerW",
+        "X"
+    ],
+    "W_S2": [
+        "W",
+        "rightUpCornerW",
+        "S2"
+    ],
+    "S2_W": [
+        "S2",
+        "rightUpCornerW",
+        "W"
+    ],
+    "W_S": [
+        "W",
+        "rightUpCornerW",
+        "leftDownCornerS",
+        "S"
+    ],
+    "S_W": [
+        "S",
+        "leftDownCornerS",
+        "rightUpCornerW",
+        "W"
+    ],
+    "W_Q": [
+        "W",
+        "rightUpCornerW",
+        "leftUpCornerBS2",
+        "rightUpCornerBS2",
+        "leftDownCornerT",
+        "leftUpCornerSHQ",
+        "Q"
+    ],
+    "Q_W": [
+        "Q",
+        "leftUpCornerSHQ",
+        "leftDownCornerT",
+        "rightUpCornerBS2",
+        "leftUpCornerBS2",
+        "rightUpCornerW",
+        "W"
+    ],
+    "V2_U": [
+        "V2",
+        "U"
+    ],
+    "U_V2": [
+        "U",
+        "V2"
+    ],
+    "W_T": [
+        "W",
+        "rightUpCornerW",
+        "leftDownCornerV2",
+        "T"
+    ],
+    "T_W": [
+        "T",
+        "leftDownCornerV2",
+        "rightUpCornerW",
+        "W"
+    ],
+    "V2_T": [
+        "V2",
+        "T"
+    ],
+    "T_V2": [
+        "T",
+        "V2"
+    ],
+    "V2_S2": [
+        "V2",
+        "leftUpCornerS2",
+        "S2"
+    ],
+    "S2_V2": [
+        "S2",
+        "leftUpCornerS2",
+        "V2"
+    ],
+    "V2_R": [
+        "V2",
+        "rightDownCornerV2",
+        "leftDownCornerR",
+        "R"
+    ],
+    "R_V2": [
+        "R",
+        "leftDownCornerR",
+        "rightDownCornerV2",
+        "V2"
+    ],
+    "V2_Q": [
+        "V2",
+        "rightUpCornerR",
+        "leftUpCornerSHQ",
+        "Q"
+    ],
+    "Q_V2": [
+        "Q",
+        "leftUpCornerSHQ",
+        "rightUpCornerR",
+        "V2"
+    ],
+    "V2_V": [
+        "V2",
+        "leftDownCornerV2",
+        "leftDownCornerV",
+        "V"
+    ],
+    "V_V2": [
+        "V",
+        "leftDownCornerV",
+        "leftDownCornerV2",
+        "V2"
+    ],
+    "V_U": [
+        "V",
+        "rightDownCornerV",
+        "leftDownCornerU",
+        "U"
+    ],
+    "U_V": [
+        "U",
+        "leftDownCornerU",
+        "rightDownCornerV",
+        "V"
+    ],
+    "V_S2": [
+        "V",
+        "leftDownCornerV",
+        "S2"
+    ],
+    "S2_V": [
+        "S2",
+        "leftDownCornerV",
+        "V"
+    ],
+    "V_Q": [
+        "V",
+        "rightDownCornerV",
+        "leftDownCornerU",
+        "middleCornerT",
+        "T",
+        "leftUpCornerSHQ",
+        "Q"
+    ],
+    "Q_V": [
+        "Q",
+        "leftUpCornerSHQ",
+        "T",
+        "middleCornerT",
+        "leftDownCornerU",
+        "rightDownCornerV",
+        "V"
+    ],
+    "W_P": [
+        "W",
+        "rightUpCornerW",
+        "leftDownCornerS",
+        "rightUpCornerO",
+        "leftDownCornerP",
+        "leftUpCornerP",
+        "P"
+    ],
+    "P_W": [
+        "P",
+        "leftUpCornerP",
+        "leftDownCornerP",
+        "rightUpCornerO",
+        "leftDownCornerS",
+        "rightUpCornerW",
+        "W"
+    ],
+    "V2_P": [
+        "V2",
+        "rightDownCornerV2",
+        "HallwayLeftR",
+        "leftDownCornerP",
+        "P"
+    ],
+    "P_V2": [
+        "P",
+        "leftDownCornerP",
+        "HallwayLeftR",
+        "rightDownCornerV2",
+        "V2"
+    ],
+    "V_P": [
+        "V",
+        "rightDownCornerV",
+        "leftDownCornerP",
+        "P"
+    ],
+    "P_V": [
+        "P",
+        "leftDownCornerP",
+        "rightDownCornerV",
+        "V"
+    ],
+    "U_T": [
+        "U",
+        "T"
+    ],
+    "T_U": [
+        "T",
+        "U"
+    ],
+    "U_S2": [
+        "U",
+        "leftUpCornerS2",
+        "S2"
+    ],
+    "S2_U": [
+        "S2",
+        "leftUpCornerS2",
+        "U"
+    ],
+    "U_S": [
+        "U",
+        "rightDownCornerS",
+        "leftUpCornerR",
+        "accessT",
+        "S"
+    ],
+    "S_U": [
+        "S",
+        "accessT",
+        "leftUpCornerR",
+        "rightDownCornerS",
+        "U"
+    ],
+    "U_R": [
+        "U",
+        "leftUpCornerR",
+        "leftDownCornerR",
+        "accessT",
+        "R"
+    ],
+    "R_U": [
+        "R",
+        "accessT",
+        "leftDownCornerR",
+        "leftUpCornerR",
+        "U"
+    ],
+    "U_Q": [
+        "U",
+        "middleCornerT",
+        "leftUpCornerSHQ",
+        "Q"
+    ],
+    "Q_U": [
+        "Q",
+        "leftUpCornerSHQ",
+        "middleCornerT",
+        "U"
+    ],
+    "U_P": [
+        "U",
+        "leftUpCornerR",
+        "leftDownCornerP",
+        "accessT",
+        "P"
+    ],
+    "P_U": [
+        "P",
+        "accessT",
+        "leftDownCornerP",
+        "leftUpCornerR",
+        "U"
+    ],
+    "T_S2": [
+        "T",
+        "leftUpCornerS2",
+        "V2",
+        "S2"
+    ],
+    "S2_T": [
+        "S2",
+        "V2",
+        "leftUpCornerS2",
+        "T"
+    ],
+    "T_S": [
+        "T",
+        "rightDownCornerS",
+        "leftUpCornerR",
+        "accessT",
+        "S"
+    ],
+    "S_T": [
+        "S",
+        "accessT",
+        "leftUpCornerR",
+        "rightDownCornerS",
+        "T"
+    ],
+    "T_R": [
+        "T",
+        "leftUpCornerR",
+        "leftDownCornerR",
+        "accessT",
+        "R"
+    ],
+    "R_T": [
+        "R",
+        "accessT",
+        "leftDownCornerR",
+        "leftUpCornerR",
+        "T"
+    ],
+    "T_Q": [
+        "T",
+        "middleCornerT",
+        "leftUpCornerSHQ",
+        "Q"
+    ],
+    "Q_T": [
+        "Q",
+        "leftUpCornerSHQ",
+        "middleCornerT",
+        "T"
+    ],
+    "T_P": [
+        "T",
+        "leftUpCornerR",
+        "leftDownCornerP",
+        "accessT",
+        "P"
+    ],
+    "P_T": [
+        "P",
+        "accessT",
+        "leftDownCornerP",
+        "leftUpCornerR",
+        "T"
+    ],
+    "S2_S": [
+        "S2",
+        "leftDownCornerS2",
+        "leftDownCornerS",
+        "S"
+    ],
+    "S_S2": [
+        "S",
+        "leftDownCornerS",
+        "leftDownCornerS2",
+        "S2"
+    ],
+    "S2_R": [
+        "S2",
+        "leftDownCornerS2",
+        "leftDownCornerS",
+        "rightDownCornerS",
+        "R"
+    ],
+    "R_S2": [
+        "R",
+        "rightDownCornerS",
+        "leftDownCornerS",
+        "leftDownCornerS2",
+        "S2"
+    ],
+    "S2_Q": [
+        "S2",
+        "leftUpCornerS2",
+        "V2",
+        "rightUpCornerR",
+        "leftUpCornerSHQ",
+        "Q"
+    ],
+    "Q_S2": [
+        "Q",
+        "leftUpCornerSHQ",
+        "rightUpCornerR",
+        "V2",
+        "leftUpCornerS2",
+        "S2"
+    ],
+    "S2_P": [
+        "S2",
+        "leftDownCornerS2",
+        "leftDownCornerS",
+        "rightUpCornerO",
+        "leftDownCornerP",
+        "leftUpCornerP",
+        "P"
+    ],
+    "P_S2": [
+        "P",
+        "leftUpCornerP",
+        "leftDownCornerP",
+        "rightUpCornerO",
+        "leftDownCornerS",
+        "leftDownCornerS2",
+        "S2"
+    ],
+    "X_Z1": [
+        "X",
+        "Y",
+        "rightUpCornerW",
+        "leftUpCornerS2",
+        "Z1"
+    ],
+    "Z1_X": [
+        "Z1",
+        "leftUpCornerS2",
+        "rightUpCornerW",
+        "Y",
+        "X"
+    ],
+    "X_Z": [
+        "X",
+        "Z1",
+        "Y",
+        "rightUpCornerW",
+        "leftUpCornerS2",
+        "Z"
+    ],
+    "Z_X": [
+        "Z",
+        "leftUpCornerS2",
+        "rightUpCornerW",
+        "Y",
+        "Z1",
+        "X"
+    ],
+    "X_Y": [
+        "X",
+        "rightUpCornerW",
+        "HallwayGardenY0",
+        "Y"
+    ],
+    "Y_X": [
+        "Y",
+        "HallwayGardenY0",
+        "rightUpCornerW",
+        "X"
+    ],
+    "W_Z2": [
+        "W",
+        "rightUpCornerW",
+        "HallwayGardenY0",
+        "Z2"
+    ],
+    "Z2_W": [
+        "Z2",
+        "HallwayGardenY0",
+        "rightUpCornerW",
+        "W"
+    ],
+    "W_Y": [
+        "W",
+        "rightUpCornerW",
+        "HallwayGardenY0",
+        "Y"
+    ],
+    "Y_W": [
+        "Y",
+        "HallwayGardenY0",
+        "rightUpCornerW",
+        "W"
+    ],
+    "Y_Z2": [
+        "Y",
+        "Z2"
+    ],
+    "Z2_Y": [
+        "Z2",
+        "Y"
+    ],
+    "Z_Z2": [
+        "Z",
+        "Z2"
+    ],
+    "Z2_Z": [
+        "Z2",
+        "Z"
+    ],
+    "Z1_Z2": [
+        "Z1",
+        "Z2"
+    ],
+    "Z2_Z1": [
+        "Z2",
+        "Z1"
+    ],
+    "Z1_Y": [
+        "Z1",
+        "Y"
+    ],
+    "Y_Z1": [
+        "Y",
+        "Z1"
+    ],
+    "Z1_Z": [
+        "Z1",
+        "Z"
+    ],
+    "Z_Z1": [
+        "Z",
+        "Z1"
+    ],
+    "Y_Z": [
+        "Y",
+        "Z1",
+        "Z"
+    ],
+    "Z_Y": [
+        "Z",
+        "Z1",
+        "Y"
+    ],
+    "V2_Z2": [
+        "V2",
+        "leftUpCornerS2",
+        "Z2"
+    ],
+    "Z2_V2": [
+        "Z2",
+        "leftUpCornerS2",
+        "V2"
+    ],
+    "V_Z2": [
+        "V",
+        "HallwayGardenY0",
+        "leftDownCornerV",
+        "Z2"
+    ],
+    "Z2_V": [
+        "Z2",
+        "leftDownCornerV",
+        "HallwayGardenY0",
+        "V"
+    ],
+    "W_Z": [
+        "W",
+        "rightUpCornerW",
+        "HallwayGardenY0",
+        "Z"
+    ],
+    "Z_W": [
+        "Z",
+        "HallwayGardenY0",
+        "rightUpCornerW",
+        "W"
+    ],
+    "V2_Z1": [
+        "V2",
+        "leftUpCornerS2",
+        "Z1"
+    ],
+    "Z1_V2": [
+        "Z1",
+        "leftUpCornerS2",
+        "V2"
+    ],
+    "W_Z1": [
+        "W",
+        "rightUpCornerW",
+        "HallwayGardenY0",
+        "Z1"
+    ],
+    "Z1_W": [
+        "Z1",
+        "HallwayGardenY0",
+        "rightUpCornerW",
+        "W"
+    ],
+    "V2_Z": [
+        "V2",
+        "leftUpCornerS2",
+        "Z"
+    ],
+    "Z_V2": [
+        "Z",
+        "leftUpCornerS2",
+        "V2"
+    ],
+    "V2_Y": [
+        "V2",
+        "rightDownCornerS2",
+        "Y"
+    ],
+    "Y_V2": [
+        "Y",
+        "rightDownCornerS2",
+        "V2"
+    ],
+    "V_Z1": [
+        "V",
+        "HallwayGardenY0",
+        "leftDownCornerV",
+        "Z1"
+    ],
+    "Z1_V": [
+        "Z1",
+        "leftDownCornerV",
+        "HallwayGardenY0",
+        "V"
+    ],
+    "V_Y": [
+        "V",
+        "HallwayGardenY0",
+        "leftDownCornerV",
+        "Y"
+    ],
+    "Y_V": [
+        "Y",
+        "leftDownCornerV",
+        "HallwayGardenY0",
+        "V"
+    ],
+    "V_Z": [
+        "V",
+        "middleW_V2",
+        "leftDownCornerV",
+        "Z"
+    ],
+    "Z_V": [
+        "Z",
+        "leftDownCornerV",
+        "middleW_V2",
+        "V"
+    ],
+    "U_Z2": [
+        "U",
+        "leftUpCornerS2",
+        "Z2"
+    ],
+    "Z2_U": [
+        "Z2",
+        "leftUpCornerS2",
+        "U"
+    ],
+    "U_Z1": [
+        "U",
+        "leftUpCornerS2",
+        "Z1"
+    ],
+    "Z1_U": [
+        "Z1",
+        "leftUpCornerS2",
+        "U"
+    ],
+    "U_Z": [
+        "U",
+        "leftUpCornerS2",
+        "Z"
+    ],
+    "Z_U": [
+        "Z",
+        "leftUpCornerS2",
+        "U"
+    ],
+    "U_Y": [
+        "U",
+        "rightDownCornerS2",
+        "Y"
+    ],
+    "Y_U": [
+        "Y",
+        "rightDownCornerS2",
+        "U"
+    ],
+    "T_Z2": [
+        "T",
+        "rightDownCornerS2",
+        "leftDownCornerU",
+        "Z2"
+    ],
+    "Z2_T": [
+        "Z2",
+        "leftDownCornerU",
+        "rightDownCornerS2",
+        "T"
+    ],
+    "T_Z1": [
+        "T",
+        "rightDownCornerS2",
+        "leftDownCornerU",
+        "Z1"
+    ],
+    "Z1_T": [
+        "Z1",
+        "leftDownCornerU",
+        "rightDownCornerS2",
+        "T"
+    ],
+    "T_Z": [
+        "T",
+        "rightDownCornerS2",
+        "leftDownCornerU",
+        "Z"
+    ],
+    "Z_T": [
+        "Z",
+        "leftDownCornerU",
+        "rightDownCornerS2",
+        "T"
+    ],
+    "T_Y": [
+        "T",
+        "rightDownCornerS2",
+        "leftDownCornerU",
+        "Y"
+    ],
+    "Y_T": [
+        "Y",
+        "leftDownCornerU",
+        "rightDownCornerS2",
+        "T"
+    ],
+    "S2_Z2": [
+        "S2",
+        "Z2"
+    ],
+    "Z2_S2": [
+        "Z2",
+        "S2"
+    ],
+    "S2_Z1": [
+        "S2",
+        "Z1"
+    ],
+    "Z1_S2": [
+        "Z1",
+        "S2"
+    ],
+    "S2_Z": [
+        "S2",
+        "Z"
+    ],
+    "Z_S2": [
+        "Z",
+        "S2"
+    ],
+    "S2_Y": [
+        "S2",
+        "Y"
+    ],
+    "Y_S2": [
+        "Y",
+        "S2"
+    ],
+    "S_Z2": [
+        "S",
+        "Z2"
+    ],
+    "Z2_S": [
+        "Z2",
+        "S"
+    ],
+    "S_Z1": [
+        "S",
+        "Z1"
+    ],
+    "Z1_S": [
+        "Z1",
+        "S"
+    ],
+    "S_Z": [
+        "S",
+        "HallwayGardenY2",
+        "Z"
+    ],
+    "Z_S": [
+        "Z",
+        "HallwayGardenY2",
+        "S"
+    ],
+    "S_Y": [
+        "S",
+        "Y"
+    ],
+    "Y_S": [
+        "Y",
+        "S"
+    ],
+    "R_Z2": [
+        "R",
+        "rightDownCornerS2",
+        "rightDownCornerV2",
+        "leftDownCornerR",
+        "Z2"
+    ],
+    "Z2_R": [
+        "Z2",
+        "leftDownCornerR",
+        "rightDownCornerV2",
+        "rightDownCornerS2",
+        "R"
+    ],
+    "Q_Z2": [
+        "Q",
+        "leftUpCornerS2",
+        "V2",
+        "rightUpCornerR",
+        "leftUpCornerSHQ",
+        "Z2"
+    ],
+    "Z2_Q": [
+        "Z2",
+        "leftUpCornerSHQ",
+        "rightUpCornerR",
+        "V2",
+        "leftUpCornerS2",
+        "Q"
+    ],
+    "P_Z2": [
+        "P",
+        "rightDownCornerS2",
+        "rightDownCornerV2",
+        "HallwayLeftR",
+        "leftDownCornerP",
+        "Z2"
+    ],
+    "Z2_P": [
+        "Z2",
+        "leftDownCornerP",
+        "HallwayLeftR",
+        "rightDownCornerV2",
+        "rightDownCornerS2",
+        "P"
+    ],
+    "O_Z2": [
+        "O",
+        "rightDownCornerS2",
+        "rightDownCornerV2",
+        "HallwayLeftR",
+        "HallwayLeftR2",
+        "Z2"
+    ],
+    "Z2_O": [
+        "Z2",
+        "HallwayLeftR2",
+        "HallwayLeftR",
+        "rightDownCornerV2",
+        "rightDownCornerS2",
+        "O"
+    ],
+    "N_Z2": [
+        "N",
+        "leftDownCornerN",
+        "Z2"
+    ],
+    "Z2_N": [
+        "Z2",
+        "leftDownCornerN",
+        "N"
+    ],
+    "N_Z1": [
+        "N",
+        "Y",
+        "leftDownCornerN",
+        "Z1"
+    ],
+    "Z1_N": [
+        "Z1",
+        "leftDownCornerN",
+        "Y",
+        "N"
+    ],
+    "N_Z": [
+        "N",
+        "Z1",
+        "Y",
+        "leftDownCornerN",
+        "Z"
+    ],
+    "Z_N": [
+        "Z",
+        "leftDownCornerN",
+        "Y",
+        "Z1",
+        "N"
+    ],
+    "N_Y": [
+        "N",
+        "leftDownCornerN",
+        "Y"
+    ],
+    "Y_N": [
+        "Y",
+        "leftDownCornerN",
+        "N"
+    ],
+    "S_Q": [
+        "S",
+        "leftUpCornerS",
+        "leftDownCornerS",
+        "rightDownCornerS2",
+        "leftDownCornerU",
+        "middleCornerT",
+        "T",
+        "leftUpCornerSHQ",
+        "Q"
+    ],
+    "Q_S": [
+        "Q",
+        "leftUpCornerSHQ",
+        "T",
+        "middleCornerT",
+        "leftDownCornerU",
+        "rightDownCornerS2",
+        "leftDownCornerS",
+        "leftUpCornerS",
+        "S"
+    ],
+    "S_R": [
+        "S",
+        "leftUpCornerS",
+        "leftDownCornerS",
+        "rightDownCornerV2",
+        "leftDownCornerR",
+        "R"
+    ],
+    "R_S": [
+        "R",
+        "leftDownCornerR",
+        "rightDownCornerV2",
+        "leftDownCornerS",
+        "leftUpCornerS",
+        "S"
+    ],
+    "S_P": [
+        "S",
+        "leftUpCornerS",
+        "leftDownCornerS",
+        "rightDownCornerV2",
+        "HallwayLeftR",
+        "leftDownCornerP",
+        "P"
+    ],
+    "P_S": [
+        "P",
+        "leftDownCornerP",
+        "HallwayLeftR",
+        "rightDownCornerV2",
+        "leftDownCornerS",
+        "leftUpCornerS",
+        "S"
+    ],
+    "X_O": [
+        "X",
+        "rightUpCornerW",
+        "leftDownCornerV2",
+        "rightDownCornerV2",
+        "HallwayLeftR",
+        "HallwayLeftR2",
+        "O"
+    ],
+    "O_X": [
+        "O",
+        "HallwayLeftR2",
+        "HallwayLeftR",
+        "rightDownCornerV2",
+        "leftDownCornerV2",
+        "rightUpCornerW",
+        "X"
+    ],
+    "X_N": [
+        "X",
+        "rightUpCornerW",
+        "leftDownCornerN",
+        "N"
+    ],
+    "N_X": [
+        "N",
+        "leftDownCornerN",
+        "rightUpCornerW",
+        "X"
+    ],
+    "W_O": [
+        "W",
+        "rightUpCornerW",
+        "leftDownCornerV2",
+        "rightDownCornerV2",
+        "HallwayLeftR",
+        "HallwayLeftR2",
+        "O"
+    ],
+    "O_W": [
+        "O",
+        "HallwayLeftR2",
+        "HallwayLeftR",
+        "rightDownCornerV2",
+        "leftDownCornerV2",
+        "rightUpCornerW",
+        "W"
+    ],
+    "V2_O": [
+        "V2",
+        "rightDownCornerV2",
+        "HallwayLeftR",
+        "HallwayLeftR2",
+        "O"
+    ],
+    "O_V2": [
+        "O",
+        "HallwayLeftR2",
+        "HallwayLeftR",
+        "rightDownCornerV2",
+        "V2"
+    ],
+    "W_N": [
+        "W",
+        "rightUpCornerW",
+        "leftDownCornerN",
+        "N"
+    ],
+    "N_W": [
+        "N",
+        "leftDownCornerN",
+        "rightUpCornerW",
+        "W"
+    ],
+    "V2_N": [
+        "V2",
+        "leftUpCornerS",
+        "leftDownCornerO",
+        "leftDownCornerN",
+        "rightDownCornerS2",
+        "N"
+    ],
+    "N_V2": [
+        "N",
+        "rightDownCornerS2",
+        "leftDownCornerN",
+        "leftDownCornerO",
+        "leftUpCornerS",
+        "V2"
+    ],
+    "V_O": [
+        "V",
+        "rightDownCornerV",
+        "HallwayLeftR2",
+        "O"
+    ],
+    "O_V": [
+        "O",
+        "HallwayLeftR2",
+        "rightDownCornerV",
+        "V"
+    ],
+    "V_N": [
+        "V",
+        "leftDownCornerS2",
+        "leftDownCornerV",
+        "leftDownCornerN",
+        "N"
+    ],
+    "N_V": [
+        "N",
+        "leftDownCornerN",
+        "leftDownCornerV",
+        "leftDownCornerS2",
+        "V"
+    ],
+    "S_V": [
+        "S",
+        "rightUpCornerX",
+        "leftDownCornerS",
+        "V"
+    ],
+    "V_S": [
+        "V",
+        "leftDownCornerS",
+        "rightUpCornerX",
+        "S"
     ]
 }
