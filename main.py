@@ -312,9 +312,10 @@ def obtener_ruta_optima(start, end, graph):
     
     return rutas_predefinidas[ruta_clave]
 
-#Aquí se seleccionan el nodo de inicio y el nodo final 
-start_node = 'S' 
-end_node = 'V'    
+
+start_node = 'M' 
+end_node = 'K'    
+
 graph = generar_grafo_con_pesos(coordenadas)
 ruta_optima = obtener_ruta_optima(start_node, end_node, graph)
 
@@ -327,4 +328,3 @@ mapImage.save(f"routes_generated/{end_node}_{start_node}.webp")
 print("Ruta óptima dibujada desde", start_node, "a", end_node, ":", ruta_optima)
 
 save_json_file(graph, "graph.json")
-
