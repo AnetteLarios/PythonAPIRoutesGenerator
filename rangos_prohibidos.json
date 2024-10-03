@@ -1,10 +1,22 @@
 
 {
     "rangos_prohibidos": {
+        "Biblioteca":{
+            "x_min": 2217,
+            "x_max": 2241,
+            "y_min": 3955,
+            "y_max": 3999 
+        },
+        "H":{
+            "x_min": 1615,
+            "x_max": 1893,
+            "y_min": 3213,
+            "y_max": 3235 
+        },
         "I":{
-            "x_min": 2113,
+            "x_min": 2128,
             "x_max": 2353,
-            "y_min": 3164,
+            "y_min": 3188,
             "y_max": 3212 
         },
 
@@ -70,6 +82,13 @@
 
         },
 
+        "HallwayP_L":{
+            "x_min": 2604,
+            "x_max": 2672,
+            "y_min": 2454,
+            "y_max": 2446 
+        },
+
         "Q_half1":{
             "x_min": 2239,
             "x_max": 2689,
@@ -78,10 +97,10 @@
         },
         
         "R":{
-            "x_min": 2098,
-            "x_max": 2301,
-            "y_min": 2148,
-            "y_max": 2196   
+            "x_min": 2105,
+            "x_max": 2275,
+            "y_min": 2150,
+            "y_max": 2170   
         },
         "S":{
             "x_min": 1695,
@@ -105,17 +124,24 @@
         },
 
         "T_half1":{
-            "x_min": 2104,
-            "x_max": 2288,
-            "y_min": 1992,
-            "y_max": 2035   
+            "x_min": 2112,
+            "x_max": 2278,
+            "y_min": 2013,
+            "y_max": 2013   
         },
 
         "T_half2":{
-            "x_min": 2323,
-            "x_max": 2499,
-            "y_min": 1992,
-            "y_max": 2035   
+            "x_min": 2347,
+            "x_max": 2487,
+            "y_min": 2008,
+            "y_max": 2008   
+        },
+
+        "Titanic":{
+            "x_min": 1842,
+            "x_max": 2043,
+            "y_min": 2050,
+            "y_max": 2149 
         },
         
         "U":{
@@ -184,31 +210,6 @@
             "x_max": 943,
             "y_min": 2326,
             "y_max": 2518 
-        },
-
-        "Jardin_matematicas":{
-            "x_min": 1650,
-            "x_max": 2013,
-            "y_min": 1818,
-            "y_max": 1851
-        },
-        "Politecnico_zona1":{
-            "x_min": 1202,
-            "x_max": 1251,
-            "y_min": 1870,
-            "y_max": 1979 
-        },
-        "Jardin S":{
-            "x_min": 1842,
-            "x_max": 2043,
-            "y_min": 2050,
-            "y_max": 2149 
-        },
-        "Jardin_UCTs":{
-            "x_min": 2330,
-            "x_max": 2560,
-            "y_min": 3012,
-            "y_max": 3022 
         }
 
         
