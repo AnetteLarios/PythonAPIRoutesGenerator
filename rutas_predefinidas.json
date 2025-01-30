@@ -501,7 +501,6 @@
         "leftUpCornerQ",
         "rightUpCornerQ",
         "Q"
-
     ],
     "Q_S2": [
         "Q",
@@ -530,68 +529,64 @@
         "leftDownCornerS2",
         "S2"
     ],
-    "Z_X":[
+    "Z_X": [
         "Z",
-        "Z2",
-        "HallwayGardenY01",
-        "rightUpCornerW",
+        "leftDownCornerX",
         "X"
     ],
-    "X_Z":[
+    "X_Z": [
         "X",
-        "rightUpCornerW",
-        "HallwayGardenY01",
-        "Z2",
+        "leftDownCornerX",
         "Z"
     ],
-    "Z_K":[
+    "Z_K": [
         "Z",
         "rightUpCornerY",
         "leftUpCornerN",
         "leftDownCornerM",
         "K"
     ],
-    "K_Z":[
+    "K_Z": [
         "K",
         "leftDownCornerM",
         "leftUpCornerN",
         "rightUpCornerY",
         "Z"
     ],
-    "Z_O":[
+    "Z_O": [
         "Z",
         "rightUpCornerY",
         "rightUpCornerO",
         "O"
     ],
-    "O_Z":[
+    "O_Z": [
         "O",
         "rightUpCornerO",
         "rightUpCornerY",
         "Z"
     ],
-    "Z_N":[
+    "Z_N": [
         "Z",
         "rightUpCornerY",
         "leftDownCornerO",
         "leftDownCornerN",
         "N"
     ],
-    "N_Z":[
+    "N_Z": [
         "N",
         "leftDownCornerN",
         "leftDownCornerO",
         "rightUpCornerY",
         "Z"
     ],
-    "Z_M":[
+    "Z_M": [
         "Z",
         "rightUpCornerY",
         "leftDownCornerO",
         "leftUpCornerM",
         "M"
     ],
-    "M_Z":[
+    "M_Z": [
         "M",
         "leftUpCornerM",
         "leftDownCornerO",
@@ -677,7 +672,7 @@
         "accessT",
         "T"
     ],
-    "T_Z":[
+    "T_Z": [
         "T",
         "accessT",
         "leftUpCornerR",
@@ -691,7 +686,7 @@
         "accessT",
         "T"
     ],
-    "T_Z1":[
+    "T_Z1": [
         "T",
         "accessT",
         "leftUpCornerR",
@@ -767,7 +762,7 @@
         "rightDownCornerS",
         "R"
     ],
-    "R_Z1":[
+    "R_Z1": [
         "R",
         "rightDownCornerS",
         "Z1"
@@ -779,7 +774,7 @@
         "leftDownCornerN",
         "N"
     ],
-    "N_Z1":[
+    "N_Z1": [
         "N",
         "leftDownCornerN",
         "leftDownCornerO",
@@ -793,26 +788,26 @@
         "leftDownCornerN",
         "M"
     ],
-    "M_Z1":[
+    "M_Z1": [
         "M",
         "leftDownCornerN",
         "leftDownCornerO",
         "rightUpCornerY",
         "Z1"
     ],
-    "Z_R":[
+    "Z_R": [
         "Z",
         "rightUpCornerY",
         "rightDownCornerS",
         "R"
     ],
-    "R_Z":[
+    "R_Z": [
         "R",
         "rightDownCornerS",
         "rightUpCornerY",
         "Z"
     ],
-    "Z_Q":[
+    "Z_Q": [
         "Z",
         "rightUpCornerY",
         "rightDownCornerS",
@@ -820,7 +815,7 @@
         "rightUpCornerQ",
         "Q"
     ],
-    "Q_Z":[
+    "Q_Z": [
         "Q",
         "rightUpCornerQ",
         "R",
@@ -828,14 +823,14 @@
         "rightUpCornerY",
         "Z"
     ],
-    "Z_P":[
+    "Z_P": [
         "Z",
         "rightUpCornerY",
         "rightUpCornerO",
         "leftDownCornerP",
         "P"
     ],
-    "P_Z":[
+    "P_Z": [
         "P",
         "leftDownCornerP",
         "rightUpCornerO",
@@ -849,7 +844,7 @@
         "leftDownCornerM",
         "K"
     ],
-    "K_Z1":[
+    "K_Z1": [
         "K",
         "leftDownCornerM",
         "leftDownCornerO",
@@ -863,20 +858,19 @@
         "leftDownCornerM",
         "K"
     ],
-    "K_Z2":[
+    "K_Z2": [
         "K",
         "leftDownCornerM",
         "leftDownCornerO",
         "rightUpCornerY",
         "Z2"
     ],
-    
     "Z1_O": [
         "Z1",
         "rightDownCornerS",
         "O"
     ],
-    "O_Z1":[
+    "O_Z1": [
         "O",
         "rightDownCornerS",
         "Z1"
@@ -887,13 +881,12 @@
         "leftDownCornerP",
         "P"
     ],
-    "P_Z1":[
+    "P_Z1": [
         "P",
         "leftDownCornerP",
         "rightUpCornerO",
         "Z1"
     ],
-
     "Z1_Q": [
         "Z1",
         "rightDownCornerS",
@@ -901,7 +894,7 @@
         "rightUpCornerR",
         "Q"
     ],
-    "Q_Z1":[
+    "Q_Z1": [
         "Q",
         "rightUpCornerQ",
         "R",
@@ -1533,7 +1526,7 @@
         "rightUpCornerN",
         "L"
     ],
-    "L_Z1":[
+    "L_Z1": [
         "L",
         "rightUpCornerN",
         "leftDownCornerO",
@@ -1746,13 +1739,13 @@
         "leftDownCornerP",
         "P"
     ],
-    "W_K":[
+    "W_K": [
         "W",
         "rightUpCornerW",
         "leftDownCornerM",
         "K"
     ],
-    "K_W":[
+    "K_W": [
         "K",
         "leftDownCornerM",
         "rightUpCornerW",
@@ -1796,33 +1789,33 @@
         "leftDownCornerM",
         "S2"
     ],
-    "Z2_T":[
+    "Z2_T": [
         "Z2",
         "leftDownCornerS2",
         "accessT",
         "T"
     ],
-    "T_Z2":[
+    "T_Z2": [
         "T",
         "accessT",
         "leftDownCornerS2",
         "Z2"
     ],
-    "Z1_X":[
+    "Z1_X": [
         "Z1",
         "Z2",
         "HallwayGardenY01",
         "rightUpCornerW",
         "X"
     ],
-    "X_Z1":[
+    "X_Z1": [
         "X",
         "rightUpCornerW",
         "HallwayGardenY01",
         "Z2",
         "Z1"
     ],
-    "T_Y":[
+    "T_Y": [
         "T",
         "accessT",
         "leftDownCornerT",
@@ -1830,7 +1823,7 @@
         "leftDownCornerS",
         "Y"
     ],
-    "Y_T":[
+    "Y_T": [
         "Y",
         "leftDownCornerS",
         "rightDownCornerS",
@@ -1838,19 +1831,19 @@
         "accessT",
         "T"
     ],
-    "R_Y":[
+    "R_Y": [
         "R",
         "rightDownCornerS",
         "leftDownCornerS",
         "Y"
     ],
-    "Y_R":[
+    "Y_R": [
         "Y",
         "leftDownCornerS",
         "rightDownCornerS",
         "R"
     ],
-    "Q_Y":[
+    "Q_Y": [
         "Q",
         "rightUpCornerQ",
         "R",
@@ -1858,7 +1851,7 @@
         "leftDownCornerS",
         "Y"
     ],
-    "Y_Q":[
+    "Y_Q": [
         "Y",
         "leftDownCornerS",
         "rightDownCornerS",
@@ -1866,47 +1859,47 @@
         "rightUpCornerQ",
         "Q"
     ],
-    "Y_P":[
+    "Y_P": [
         "Y",
         "rightUpCornerO",
         "leftDownCornerP",
         "P"
     ],
-    "P_Y":[
+    "P_Y": [
         "P",
         "leftDownCornerP",
         "rightUpCornerO",
         "Y"
     ],
-    "Y_O":[
+    "Y_O": [
         "Y",
         "rightUpCornerO",
         "O"
     ],
-    "O_Y":[
+    "O_Y": [
         "O",
         "rightUpCornerO",
         "Y"
     ],
-    "Y_K":[
+    "Y_K": [
         "Y",
         "leftDownCornerO",
         "leftDownCornerM",
         "K"
     ],
-    "K_Y":[
+    "K_Y": [
         "K",
         "leftDownCornerM",
         "leftDownCornerO",
         "Y"
     ],
-    "X_K":[
+    "X_K": [
         "X",
         "rightUpCornerW",
         "leftDownCornerM",
         "K"
     ],
-    "K_X":[
+    "K_X": [
         "K",
         "leftDownCornerM",
         "rightUpCornerW",
@@ -1936,26 +1929,26 @@
         "rightUpCornerW",
         "W"
     ],
-    "U_R":[
+    "U_R": [
         "U",
         "accessT",
         "rightDownCornerR",
         "R"
-       ],
-    "R_U":[
+    ],
+    "R_U": [
         "R",
         "rightDownCornerR",
         "accessT",
         "U"
     ],
-    "U_P":[
+    "U_P": [
         "U",
         "leftDownCornerU",
         "leftDownCornerR",
         "leftDownCornerP",
         "P"
     ],
-    "P_U":[
+    "P_U": [
         "P",
         "leftDownCornerP",
         "leftDownCornerR",
@@ -1990,33 +1983,33 @@
         "leftDownCornerU",
         "U"
     ],
-    "T_S":[
+    "T_S": [
         "T",
         "accessT",
         "leftDownCornerT",
         "rightDownCornerS",
         "S"
     ],
-    "S_T":[
+    "S_T": [
         "S",
         "rightDownCornerS",
         "leftDownCornerT",
         "accessT",
         "T"
     ],
-    "T_R":[
+    "T_R": [
         "T",
         "accessT",
         "rightDownCornerR",
         "R"
     ],
-    "R_T":[
+    "R_T": [
         "R",
         "rightDownCornerR",
         "accessT",
         "T"
     ],
-    "T_P":[
+    "T_P": [
         "T",
         "accessT",
         "leftDownCornerT",
@@ -2024,7 +2017,7 @@
         "leftDownCornerP",
         "P"
     ],
-    "P_T":[
+    "P_T": [
         "P",
         "leftDownCornerP",
         "leftDownCornerR",
@@ -2048,7 +2041,7 @@
         "rightUpCornerM",
         "M"
     ],
-    "T_K":[
+    "T_K": [
         "T",
         "accessT",
         "leftDownCornerT",
@@ -2056,7 +2049,7 @@
         "rightDownCornerM",
         "K"
     ],
-    "K_T":[
+    "K_T": [
         "K",
         "rightDownCornerM",
         "rightDownCornerS",
@@ -2064,12 +2057,12 @@
         "accessT",
         "T"
     ],
-    "S2_M":[
+    "S2_M": [
         "S2",
         "leftUpCornerM",
         "M"
     ],
-    "M_S2":[
+    "M_S2": [
         "M",
         "leftUpCornerM",
         "S2"
@@ -2098,21 +2091,21 @@
         "rightDownCornerS",
         "S"
     ],
-    "R_K":[
+    "R_K": [
         "R",
         "leftDownCornerR",
         "rightDownCornerS",
         "rightDownCornerM",
         "K"
     ],
-    "K_R":[
+    "K_R": [
         "K",
         "rightDownCornerM",
         "rightDownCornerS",
         "leftDownCornerR",
         "R"
     ],
-    "Q_N":[
+    "Q_N": [
         "Q",
         "HallwayP_JOBS",
         "rightDownCornerO",
@@ -2120,15 +2113,15 @@
         "rightDownCornerN",
         "N"
     ],
-    "N_Q":[
+    "N_Q": [
         "N",
         "rightDownCornerN",
         "rightUpCornerN",
         "rightDownCornerO",
         "HallwayP_JOBS",
         "Q"
-    ], 
-    "Q_M":[
+    ],
+    "Q_M": [
         "Q",
         "HallwayP_JOBS",
         "rightDownCornerO",
@@ -2136,7 +2129,7 @@
         "rightUpCornerM",
         "M"
     ],
-    "M_Q":[
+    "M_Q": [
         "M",
         "rightUpCornerM",
         "rightUpCornerN",
@@ -2144,7 +2137,7 @@
         "HallwayP_JOBS",
         "Q"
     ],
-    "K_Q":[
+    "K_Q": [
         "Q",
         "HallwayP_JOBS",
         "rightDownCornerO",
@@ -2152,7 +2145,7 @@
         "rightDownCornerM",
         "K"
     ],
-    "Q_K":[
+    "Q_K": [
         "K",
         "rightDownCornerM",
         "rightUpCornerN",
@@ -2160,7 +2153,7 @@
         "HallwayP_JOBS",
         "Q"
     ],
-    "N_P":[
+    "N_P": [
         "N",
         "rightDownCornerN",
         "rightDownCornerO",
@@ -2174,7 +2167,7 @@
         "rightDownCornerN",
         "N"
     ],
-    "M_P":[
+    "M_P": [
         "M",
         "rightUpCornerM",
         "rightUpCornerN",
@@ -2190,7 +2183,7 @@
         "rightUpCornerM",
         "M"
     ],
-    "K_P":[
+    "K_P": [
         "K",
         "rightDownCornerM",
         "rightUpCornerN",
@@ -2206,59 +2199,59 @@
         "rightDownCornerM",
         "K"
     ],
-    "O_N":[
+    "O_N": [
         "O",
         "rightDownCornerN",
         "N"
     ],
-    "N_O":[
+    "N_O": [
         "N",
         "rightDownCornerN",
         "O"
     ],
-    "M_O":[
+    "M_O": [
         "M",
         "rightUpCornerM",
         "O"
     ],
-    "O_M":[
+    "O_M": [
         "O",
         "rightUpCornerM",
         "M"
     ],
-    "K_O":[
+    "K_O": [
         "O",
         "rightUpCornerN",
         "rightDownCornerM",
         "K"
     ],
-    "O_K":[
+    "O_K": [
         "K",
         "rightDownCornerM",
         "rightUpCornerN",
         "O"
     ],
-    "N_M":[
+    "N_M": [
         "N",
         "M"
     ],
-    "M_N":[
+    "M_N": [
         "M",
         "N"
     ],
-    "N_K":[
+    "N_K": [
         "N",
         "rightDownCornerN",
         "rightDownCornerM",
         "K"
     ],
-    "K_N":[
+    "K_N": [
         "K",
         "rightDownCornerM",
         "rightDownCornerN",
         "N"
     ],
-    "A_B":[
+    "A_B": [
         "A",
         "HallwayA_D",
         "leftDownCornerD",
@@ -2274,7 +2267,7 @@
         "HallwayA_D",
         "A"
     ],
-    "A_C":[
+    "A_C": [
         "A",
         "HallwayA_D",
         "leftDownCornerD",
@@ -2288,7 +2281,7 @@
         "HallwayA_D",
         "A"
     ],
-    "A_D":[
+    "A_D": [
         "A",
         "HallwayA_D",
         "leftDownCornerD",
@@ -2300,35 +2293,35 @@
         "HallwayA_D",
         "A"
     ],
-    "A_E":[
+    "A_E": [
         "A",
         "HallwayA",
         "HallwayCID",
         "HallwayCID1",
         "E"
     ],
-    "E_A":[
+    "E_A": [
         "E",
         "HallwayCID1",
         "HallwayCID",
         "HallwayA",
         "A"
     ],
-    "A_F":[
+    "A_F": [
         "A",
         "HallwayA",
         "HallwayCID",
         "HallwayCID1",
         "F"
     ],
-    "F_A":[
+    "F_A": [
         "F",
         "HallwayCID1",
         "HallwayCID",
         "HallwayA",
         "A"
     ],
-    "A_G":[
+    "A_G": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2336,9 +2329,8 @@
         "E",
         "Auditorio_Ing_Antonio_Rodriguez_Sanchez",
         "G"
-
     ],
-    "G_A":[
+    "G_A": [
         "G",
         "Auditorio_Ing_Antonio_Rodriguez_Sanchez",
         "E",
@@ -2347,7 +2339,7 @@
         "HallwayA",
         "A"
     ],
-    "A_H":[
+    "A_H": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2356,7 +2348,7 @@
         "Bathrooms_Women_F",
         "CornerF_H"
     ],
-    "H_A":[
+    "H_A": [
         "CornerF_H",
         "Bathrooms_Women_F",
         "E",
@@ -2365,7 +2357,7 @@
         "HallwayA",
         "A"
     ],
-    "A_I":[
+    "A_I": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2374,7 +2366,7 @@
         "leftUpCornerI",
         "I"
     ],
-    "I_A":[
+    "I_A": [
         "I",
         "leftUpCornerI",
         "E",
@@ -2383,35 +2375,35 @@
         "HallwayA",
         "A"
     ],
-    "A_J":[
+    "A_J": [
         "A",
         "HallwayA",
         "HallwayCID",
         "HallwayCID1",
         "J"
     ],
-    "J_A":[
+    "J_A": [
         "J",
         "HallwayCID1",
         "HallwayCID",
         "HallwayA",
         "A"
     ],
-    "A_K":[
+    "A_K": [
         "A",
         "HallwayA",
         "HallwayCID",
         "HallwayCID1",
         "K"
     ],
-    "K_A":[
+    "K_A": [
         "K",
         "HallwayCID1",
         "HallwayCID",
         "HallwayA",
         "A"
     ],
-    "A_M":[
+    "A_M": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2419,7 +2411,7 @@
         "rightUpCornerM",
         "M"
     ],
-    "M_A":[
+    "M_A": [
         "M",
         "rightUpCornerM",
         "HallwayCID1",
@@ -2427,7 +2419,7 @@
         "HallwayA",
         "A"
     ],
-    "A_N":[
+    "A_N": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2435,7 +2427,7 @@
         "rightDownCornerN",
         "N"
     ],
-    "N_A":[
+    "N_A": [
         "N",
         "rightDownCornerN",
         "HallwayCID1",
@@ -2443,7 +2435,7 @@
         "HallwayA",
         "A"
     ],
-    "A_O":[
+    "A_O": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2451,7 +2443,7 @@
         "rightDownCornerN",
         "O"
     ],
-    "O_A":[
+    "O_A": [
         "O",
         "rightDownCornerN",
         "HallwayCID1",
@@ -2459,7 +2451,7 @@
         "HallwayA",
         "A"
     ],
-    "A_P":[
+    "A_P": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2469,7 +2461,7 @@
         "leftDownCornerP",
         "P"
     ],
-    "P_A":[
+    "P_A": [
         "P",
         "leftDownCornerP",
         "O",
@@ -2479,7 +2471,7 @@
         "HallwayA",
         "A"
     ],
-    "A_Q":[
+    "A_Q": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2490,7 +2482,7 @@
         "HallwayP_JOBS",
         "Q"
     ],
-    "Q_A":[
+    "Q_A": [
         "Q",
         "HallwayP_JOBS",
         "leftDownCornerP",
@@ -2501,7 +2493,7 @@
         "HallwayA",
         "A"
     ],
-    "A_R":[
+    "A_R": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2510,7 +2502,7 @@
         "rightDownCornerS",
         "R"
     ],
-    "R_A":[
+    "R_A": [
         "R",
         "rightDownCornerS",
         "rightDownCornerN",
@@ -2519,7 +2511,7 @@
         "HallwayA",
         "A"
     ],
-    "A_S":[
+    "A_S": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2528,7 +2520,7 @@
         "rightDownCornerS",
         "S"
     ],
-    "S_A":[
+    "S_A": [
         "S",
         "rightDownCornerS",
         "rightDownCornerN",
@@ -2537,7 +2529,7 @@
         "HallwayA",
         "A"
     ],
-    "A_S2":[
+    "A_S2": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2549,9 +2541,8 @@
         "leftUpCornerH",
         "H_P12",
         "S2"
-
     ],
-    "S2_A":[
+    "S2_A": [
         "S2",
         "H_P12",
         "leftUpCornerH",
@@ -2564,7 +2555,7 @@
         "HallwayA",
         "A"
     ],
-    "A_T":[
+    "A_T": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2575,7 +2566,7 @@
         "accessT",
         "T"
     ],
-    "T_A":[
+    "T_A": [
         "T",
         "accessT",
         "leftDownCornerT",
@@ -2586,7 +2577,7 @@
         "HallwayA",
         "A"
     ],
-    "A_U":[
+    "A_U": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2598,7 +2589,7 @@
         "T",
         "U"
     ],
-    "U_A":[
+    "U_A": [
         "U",
         "T",
         "accessT",
@@ -2610,7 +2601,7 @@
         "HallwayA",
         "A"
     ],
-    "A_V":[
+    "A_V": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2621,7 +2612,7 @@
         "rightDownCornerV",
         "V"
     ],
-    "V_A":[
+    "V_A": [
         "V",
         "rightDownCornerV",
         "rightDownCornerV2",
@@ -2632,7 +2623,7 @@
         "HallwayA",
         "A"
     ],
-    "A_V2":[
+    "A_V2": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2642,7 +2633,7 @@
         "rightDownCornerV2",
         "V2"
     ],
-    "V2_A":[
+    "V2_A": [
         "V2",
         "rightDownCornerV2",
         "rightDownCornerS",
@@ -2652,7 +2643,7 @@
         "HallwayA",
         "A"
     ],
-    "A_W":[
+    "A_W": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2665,9 +2656,8 @@
         "H_P12",
         "rightUpCornerW",
         "W"
-
     ],
-    "W_A":[
+    "W_A": [
         "W",
         "rightUpCornerW",
         "H_P12",
@@ -2681,36 +2671,25 @@
         "HallwayA",
         "A"
     ],
-    "A_X":[
+    "A_X": [
         "A",
-        "HallwayA",
-        "HallwayCID",
-        "HallwayCID1",
-        "E",
-        "Auditorio_Ing_Antonio_Rodriguez_Sanchez",
-        "G",
-        "Laboratorio_leche_materna",
-        "leftUpCornerH",
-        "H_P12",
-        "rightUpCornerW",
+        "F",
+        "HallwayO_P",
+        "HallwayLeftR2",
+        "rightUpCornerV2",
+        "rightDownCornerX",
         "X"
-
     ],
-    "X_A":[
+    "X_A": [
         "X",
-        "rightUpCornerW",
-        "H_P12",
-        "leftUpCornerH",
-        "Laboratorio_leche_materna",
-        "G",
-        "Auditorio_Ing_Antonio_Rodriguez_Sanchez",
-        "E",
-        "HallwayCID1",
-        "HallwayCID",
-        "HallwayA",
+        "rightDownCornerX",
+        "rightUpCornerV2",
+        "HallwayLeftR2",
+        "HallwayO_P",
+        "F",
         "A"
     ],
-    "A_Y":[
+    "A_Y": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2723,9 +2702,8 @@
         "H_P12",
         "HallwayGardenY3",
         "Y"
-
     ],
-    "Y_A":[
+    "Y_A": [
         "Y",
         "HallwayGardenY3",
         "H_P12",
@@ -2739,38 +2717,21 @@
         "HallwayA",
         "A"
     ],
-    "A_Z":[
+    "A_Z": [
         "A",
         "HallwayA",
-        "HallwayCID",
-        "HallwayCID1",
-        "E",
-        "Auditorio_Ing_Antonio_Rodriguez_Sanchez",
         "G",
-        "Laboratorio_leche_materna",
-        "leftUpCornerH",
-        "H_P12",
-        "HallwayGardenY3",
-        "Y",
+        "leftDownCornerZ",
         "Z"
-
     ],
-    "Z_A":[
+    "Z_A": [
         "Z",
-        "Y",
-        "HallwayGardenY3",
-        "H_P12",
-        "leftUpCornerH",
-        "Laboratorio_leche_materna",
+        "leftDownCornerZ",
         "G",
-        "Auditorio_Ing_Antonio_Rodriguez_Sanchez",
-        "E",
-        "HallwayCID1",
-        "HallwayCID",
         "HallwayA",
         "A"
     ],
-    "A_Z1":[
+    "A_Z1": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2784,9 +2745,8 @@
         "HallwayGardenY3",
         "Y",
         "Z1"
-
     ],
-    "Z1_A":[
+    "Z1_A": [
         "Z1",
         "Y",
         "HallwayGardenY3",
@@ -2801,7 +2761,7 @@
         "HallwayA",
         "A"
     ],
-    "A_Z2":[
+    "A_Z2": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2814,9 +2774,8 @@
         "H_P12",
         "HallwayGardenY3",
         "Z2"
-
     ],
-    "Z2_A":[
+    "Z2_A": [
         "Z2",
         "HallwayGardenY3",
         "H_P12",
@@ -2830,19 +2789,19 @@
         "HallwayA",
         "A"
     ],
-    "M_L":[
+    "M_L": [
         "M",
         "rightUpCornerM",
         "rightUpCornerN",
         "L"
     ],
-    "L_M":[
+    "L_M": [
         "L",
         "rightUpCornerN",
         "rightUpCornerM",
         "M"
     ],
-    "A_UCT1":[
+    "A_UCT1": [
         "A",
         "HallwayA",
         "HallwayCID",
@@ -2853,7 +2812,7 @@
         "rightUpCornerI",
         "leftDownCornerUCT1"
     ],
-    "UCT1_A":[
+    "UCT1_A": [
         "leftDownCornerUCT1",
         "rightUpCornerI",
         "I",
@@ -2864,17 +2823,118 @@
         "HallwayA",
         "A"
     ],
-    "M_K":[
+    "M_K": [
         "M",
         "rightUpCornerM",
         "rightDownCornerM",
         "K"
     ],
-    "K_M":[
+    "K_M": [
         "K",
         "rightDownCornerM",
         "rightUpCornerM",
         "M"
+    ],
+    "X_E": [
+        "X",
+        "rightUpCornerW",
+        "middleW_V2",
+        "rightUpCornerBS2",
+        "F",
+        "HallwayO_P",
+        "HallwayLeftR",
+        "E"
+    ],
+    "E_X": [
+        "E",
+        "HallwayLeftR",
+        "HallwayO_P",
+        "F",
+        "rightUpCornerBS2",
+        "middleW_V2",
+        "rightUpCornerW",
+        "X"
+    ],
+    "Biblioteca_Q": [
+        "Biblioteca",
+        "rightDownCornerUCT2",
+        "HallwayP_JOBS",
+        "Q"
+    ],
+    "Q_Biblioteca": [
+        "Q",
+        "HallwayP_JOBS",
+        "rightDownCornerUCT2",
+        "Biblioteca"
+    ],
+    "X_Biblioteca": [
+        "X",
+        "rightUpCornerW",
+        "middleW_V2",
+        "rightUpCornerBS2",
+        "HallwayLeftR",
+        "rightUpCornerJ0",
+        "Biblioteca"
+    ],
+    "Biblioteca_X": [
+        "Biblioteca",
+        "rightUpCornerJ0",
+        "HallwayLeftR",
+        "rightUpCornerBS2",
+        "middleW_V2",
+        "rightUpCornerW",
+        "X"
+    ],
+    "B_X": [
+        "B",
+        "rightDownCornerX",
+        "rightDownCornerO",
+        "rightUpCornerN",
+        "rightUpCornerV2",
+        "E",
+        "D",
+        "HallwayP_JOBS",
+        "rightUpCornerTitanic",
+        "X"
+    ],
+    "X_B": [
+        "X",
+        "rightUpCornerTitanic",
+        "HallwayP_JOBS",
+        "D",
+        "E",
+        "rightUpCornerV2",
+        "rightUpCornerN",
+        "rightDownCornerO",
+        "rightDownCornerX",
+        "B"
+    ],
+    "Z_Biblioteca": [
+        "Z",
+        "Z1",
+        "Y",
+        "HallwayP12_N",
+        "H_P12",
+        "HallwayF",
+        "E",
+        "Biblioteca"
+    ],
+    "Biblioteca_Z": [
+        "Biblioteca",
+        "E",
+        "HallwayF",
+        "H_P12",
+        "HallwayP12_N",
+        "Y",
+        "Z1",
+        "Z"
+    ],
+    "A_Biblioteca": [
+        "A",
+        "Biblioteca"
+    ],
+    "Biblioteca_A": [
+        "Biblioteca",
+        "A"
     ]
-
 }
